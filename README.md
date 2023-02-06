@@ -1,5 +1,5 @@
 # CUSTOMER-PERSONALITY-ANALYSIS
-Final project for Statistics Software(R)
+Final project for Statistics Software
 
 ## 目录
 1. Introduction 
@@ -24,5 +24,6 @@ Final project for Statistics Software(R)
     - market segment and suggestion
 8.Appendix
 
+本报告数据分析语言为 **R语言**
 
 完整版报告见 **Customer personality analysis.pdf**
