@@ -22,7 +22,8 @@ Final project for Statistics Software
 7. Part3: customer clustering
     - K-means clustering
     - market segment and suggestion
-8.Appendix
+    
+8. Appendix
 
 本报告数据分析语言为 **R语言**
 
